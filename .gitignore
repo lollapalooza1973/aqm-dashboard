@@ -1,0 +1,5 @@
+*.rrd
+*.log
+tmp/
+cache/
+.DS_Store
